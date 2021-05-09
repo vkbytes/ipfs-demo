@@ -1,7 +1,7 @@
 baseURL = "http://linbynd.com/"
 languageCode = "en-us"
 title = "IPFS BLOG"
-theme = "mainroad"
+theme = "Mainroad"
 
 [Author] # Used in authorbox
   name = "Vinit Khandagle"
