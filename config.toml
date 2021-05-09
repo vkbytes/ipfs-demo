@@ -5,7 +5,7 @@ theme = "mainroad"
 
 [Author] # Used in authorbox
   name = "Vinit Khandagle"
-  bio = "Vinit's  true identity is unknown."
+  bio = "Vinit's  true identity is a Cloud engineer"
 
 [[menu.main]]
     name = "Blog"
