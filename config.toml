@@ -5,7 +5,7 @@ theme = "Mainroad"
 
 [Author] # Used in authorbox
   name = "Vinit Khandagle"
-  bio = "Vinit's  true identity is a Cloud engineer"
+  bio = "Vinit's true identity is a Cloud engineer"
 
 [[menu.main]]
     name = "Blog"
@@ -55,5 +55,5 @@ theme = "Mainroad"
   twitter = "vini_tux"
   instagram = "username"
   linkedin = "vinitkhandagle"
-  gitlab = "linbynd"
+  github = "vkbytes"
   email = "vinit.khandagle@gmail.com"
